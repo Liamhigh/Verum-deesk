@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Varem-front-end/static/js/main.7d0a53a7.js",
+    "static/media/verum-omnis-logo.png": "/Varem-front-end/static/media/verum-omnis-logo.c3ab311c7564feede9a2.png",
+    "index.html": "/Varem-front-end/index.html",
+    "main.7d0a53a7.js.map": "/Varem-front-end/static/js/main.7d0a53a7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7d0a53a7.js"
+  ]
+}
